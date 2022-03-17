@@ -1,2 +1,2 @@
 # ML-for-EO-Data
-This repository contains the results of my ML learning attempts for EO data. The code will be updated soon to reflect my new insights. 
+This repository houses my ML learning efforts for EO data. Hopefully, the code will revised shortly in light of my new discoveries. 
